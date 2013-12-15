@@ -2,6 +2,8 @@
 
 This list is a public resource. It is a compilation of the names, github handles, and twitter handles of men shown to have participated in the harrassment of women.
 
+_Note that if the harrassment falls under the jurisdiction of the UK, you can report internet hate speech on the [Internet Hate Crime/Incident Reporting Form](https://secure.met.police.uk/hatecrime_internet/)._
+
 ## Why?
 
 A few reasons.
